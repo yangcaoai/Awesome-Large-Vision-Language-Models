@@ -1,9 +1,9 @@
 # Awesome-Large-Vision-Language-Models
   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Papers for large vision-language models, released codes collections. 
+Papers and codes for large vision-language models. 
 
-This repo mainly focus on the large vision-language models tasks, but any addition, please pull requests or email me by `yangcao.cs@gmail.com`.   
+This repo mainly focuses on the large vision-language models tasks. Please pull requests or email me by `yangcao.cs@gmail.com` if you want to recommend papers.  
 
 If you are interested in related tasks, you can reach me out by discord account: yangcao#9724 or WeChat: 85298328912.
 
