@@ -17,3 +17,4 @@ into Large Language Models](https://arxiv.org/pdf/2307.12981.pdf), `NeurIPS2023`
 ## 2D
 1. <span id = "16001">[LLaMA-VID] [LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models](https://arxiv.org/abs/2311.17043), `Arxiv2023`. [[Code](https://github.com/dvlab-research/LLaMA-VID)]
 2. <span id = "16001">[Mini-Gemini] [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://arxiv.org/abs/2403.18814), `Arxiv2024`. [[Code](https://github.com/dvlab-research/MiniGemini)]
+3. <span id = "16001">[Prompt Highlighter] [Prompt Highlighter: Interactive Control for Multi-Modal LLMs](https://arxiv.org/abs/2312.04302), `CVPR2024`. [[Code](https://github.com/dvlab-research/Prompt-Highlighter/)]
